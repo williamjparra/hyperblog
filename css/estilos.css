@@ -36,3 +36,21 @@ body{
 .container #post {
     padding: 1em;
 }
+
+footer {
+    background: black;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    min-height: 8em;
+    bottom: 0px;
+    position: absolute;
+}
+
+footer .container1 {
+    color: white;
+    width: 70%;
+    padding: 0;
+    text-align: left;
+    margin: 0 auto;
+}
